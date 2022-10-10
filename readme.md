@@ -1,0 +1,1 @@
+Predict diabetes likelyhood using KNN algorithm
